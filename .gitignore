@@ -3,3 +3,5 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+bin/SKR_Mini_E3_v1.2_256K_BLTouch_v3.1.bin
+*.bin
