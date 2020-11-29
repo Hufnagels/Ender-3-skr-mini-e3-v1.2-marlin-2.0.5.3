@@ -124,8 +124,8 @@
 #if HAS_SPI_LCD
 
   #if ENABLED(CR10_STOCKDISPLAY)
-
-    #define BEEPER_PIN              EXPA1_10_PIN
+    //HUF-C:2020.11.29
+    #define BEEPER_PIN              -1 //EXPA1_10_PIN
 
     #define BTN_EN1                 EXPA1_08_PIN
     #define BTN_EN2                 EXPA1_06_PIN
