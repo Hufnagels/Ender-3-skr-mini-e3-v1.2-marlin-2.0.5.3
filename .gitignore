@@ -5,3 +5,7 @@
 .vscode/ipch
 bin/SKR_Mini_E3_v1.2_256K_BLTouch_v3.1.bin
 *.bin
+.DS_Store
+Marlin/.DS_Store
+buildroot/share/.DS_Store
+buildroot/.DS_Store

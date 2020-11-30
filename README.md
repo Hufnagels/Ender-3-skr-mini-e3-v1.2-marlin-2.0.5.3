@@ -12,6 +12,9 @@ https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3
 
 Creality Ender-3 with SKR Mini E3 v1.2 and Creality BLTouch 3.1
 
+## Before compile Platformio changes
+
+[libmaple/gpio error](https://reprap.org/forum/read.php?415,874307)
 ## Features Enabled
 
 - BLTouch (Bi-Linear Bed Leveling)
